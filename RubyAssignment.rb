@@ -1,3 +1,5 @@
+# Greed game
+
 class Player # Class for player and score
 	attr_reader :player, :score  
 	def initialize(player) #initialize the player and score
